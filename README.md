@@ -14,9 +14,9 @@ Check out my [coding portfolio!]
 
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
+- [Instagram]()
+- [TikTok]()
+- [YouTube]()
 
 
 ## 🌐 Connect with me:
