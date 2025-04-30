@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
 
 # 💫 About Me:
-I am a first-year computer science student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a second-year computer science student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
