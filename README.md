@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
 
 # 💫 About Me:
-I am a computer science student at McGill University. The central theme of my journey is to leverage my skills in Machine Learning and in building web applications **for the sake of social impact**. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
+I am a computer science student at McGill University. The central theme of my life as a developer is to leverage my skills in Machine Learning and in building web applications **for the sake of social impact**. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
 
 ## 🚀 What I'm Up To
 
