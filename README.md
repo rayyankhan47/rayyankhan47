@@ -11,13 +11,13 @@ I am a computer science student at McGill University. The central theme of my jo
 
 Check out my [coding portfolio!] (Unavailable right now 😢)
 
-## 🎓 Fun facts
+## 🎓 Who Am I?
 
-- 🥇 I love high pressure hackathon-type situations where I can *suffer* for 48 hours
-- 😃 Collaborations and startups are my thing. **Seriously, hit me up and let's do something awesome together**
-- 🌍 I strive in humanitarian projects and education advocacy
-- ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
-- 🏸 I play competitive badminton 🤑
+- 🌍 I strive in humanitarian projects and education advocacy!
+- 🥇 I live for high pressure hackathon-type situations where I can *suffer* for 48 hours.
+- 💫 Entrepreneurship, startups, and collaborations are my thing!
+- ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology.
+- 🏸 I play competitive badminton. 🤑
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-khan10/)
