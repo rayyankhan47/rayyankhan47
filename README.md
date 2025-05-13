@@ -44,5 +44,5 @@ Libraries/Frameworks:
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Thank You! 🌃
+## 🌃 Thank You!
 *“Life stands before me like an eternal spring with new and brilliant clothes.” ― Carl Friedrich Gauss*
