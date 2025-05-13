@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
 
 # 💫 About Me:
-I am a computer science student at McGill University. The central theme of my life as a developer is to leverage my skills in Machine Learning and in building web applications for the sake of social impact. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
+I am a computer science student at McGill University. The central theme of my journey is to leverage my skills in Machine Learning and in building web applications **for the sake of social impact**. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
 
 ## 🚀 What I'm Up To
 
@@ -13,11 +13,11 @@ Check out my [coding portfolio!] (Unavailable right now 😢)
 
 ## 🎓 Fun facts
 
-- 🥇 I love high pressure hackathon-type situations where my friends and I can *suffer* for 48 hours and come up with something all worth it at the end.
-- 😃 Team projects, collaborations, and startups are my thing. Hence, I *really* mean it when I'm saying that **we should work on something awesome together**.
-- 🌍 I strive in all things social impact. Through my experience in education advocacy, I've honed my communication skills and reinforced my belief in the transformative power of storytelling.
-- ❣️ Math is where it all began for me. I am particularly interested in Graph Theory and Algebraic Topology. I'll sit with you for hours and talk about topics in Algebra, Analysis, Number Theory, you name it!
-- 🏸 I play competitive badminton when I'm not staring at a screen 🤑
+- 🥇 I love high pressure hackathon-type situations where I can *suffer* for 48 hours
+- 😃 Collaborations and startups are my thing. **Seriously, hit me up and let's do something awesome together**
+- 🌍 I strive in humanitarian projects and education advocacy
+- ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
+- 🏸 I play competitive badminton 🤑
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-khan10/)
@@ -39,4 +39,7 @@ Libraries/Frameworks:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Thank You! 🌃
+Have a great day! 😃
