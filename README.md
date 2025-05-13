@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
 
 # 💫 About Me:
-I am a second-year computer science student at McGill University. The central theme of my life as a developer is to leverage my skills in Machine Learning and building web applications for the sake of social impact.\nI want to build something interesting with you! Hit me up and let's create a beautiful project together. 
+I am a computer science student at McGill University. The central theme of my life as a developer is to leverage my skills in Machine Learning and in building web applications for the sake of social impact. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
 - 💻 Building MERN/PERN applications with Next.Js
-- 🎨 I am currently working on: A start-up to solve certain problems in the Québec collegial academic sphere 🤔
+- 🎨 I am currently working on: A startup to solve certain problems in the Québec collegial academic sphere 😄
 
-Check out my [coding portfolio!]
+Check out my [coding portfolio!] (Unavailable right now 😢)
 
 ## 🎓 Fun facts
 
 - 🥇 I love high pressure hackathon-type situations where my friends and I can *suffer* for 48 hours and come up with something all worth it at the end.
-- 😃 Team projects are my thing. Hence, I *really* mean it when I ask you to hit me up if you want to work on something cool with me.
+- 😃 Team projects, collaborations, and startups are my thing. Hence, I *really* mean it when I'm saying that **we should work on something awesome together**.
 - 🌍 I strive in all things social impact. Through my experience in education advocacy, I've honed my communication skills and reinforced my belief in the transformative power of storytelling.
-- ❣️ Math is where it all began for me (I was a math major before throwing myself to the world of CS and potential unemployment 🥶). I am particularly interested in Graph Theory and Algebraic Topology.
+- ❣️ Math is where it all began for me. I am particularly interested in Graph Theory and Algebraic Topology. I'll sit with you for hours and talk about topics in Algebra, Analysis, Number Theory, you name it!
 - 🏸 I play competitive badminton when I'm not staring at a screen 🤑
 
 ## 🌐 Connect with me:
