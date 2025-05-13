@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
 
 # 💫 About Me:
-I am a second-year computer science student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a second-year computer science student at McGill University, and I want to leverage my skills in Machine Learning and building robust web applications for the sake of social impact. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 💻 Building MERN/PERN applications with Next.Js
+- 🎨 I am currently working on: A start-up to solve certain problems in the Québec collegial academic sphere 🤔
 
 Check out my [coding portfolio!]
 
-## 🎓 About Me
+## 🎓 Fun facts
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-- [Instagram]()
-- [TikTok]()
-- [YouTube]()
-
+- 🥇 I love high pressure hackathon-type situations where my friends and I can *suffer* for 48 hours and come up with something all worth it at the end.
+- 😃 Team projects are my thing. Hence, I *really* mean it when I ask you to hit me up if you want to work on something cool with me.
+- 🌍 I strive in all things social impact. Through my experience in education advocacy, I've honed my communication skills and reinforced my belief in the transformative power of storytelling.
+- ❣️ Math is where it all began for me (I was a math major before throwing myself to the world of CS and potential unemployment 🥶). I am particularly interested in Graph Theory and Algebraic Topology.
+- 🏸 I play competitive badminton when I'm not staring at a screen 🤑
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-khan10/)
@@ -31,12 +31,6 @@ Languages:
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
-
-Developer Tools: 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Libraries/Frameworks: 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -46,4 +40,3 @@ Libraries/Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
