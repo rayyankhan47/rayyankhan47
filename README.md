@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
 
 # 💫 About Me:
-I am a computer science student at McGill University. The central theme of my life as a developer is to leverage my skills in Machine Learning and in building web applications **for the sake of social impact**. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
+I am a computer science student at McGill University. I'm leveraging my skills in Machine Learning and in building web applications for the sake of social impact. I want to build something interesting with you! Hit me up and let's create a beautiful project together. 
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
 - 💻 Building MERN/PERN applications with Next.Js
-- 🎨 I am currently working on: A startup to solve certain problems in the Québec collegial academic sphere 😄
+- 🎨 I am currently working on: A startup to solve certain problems in the Québec collegial academic sphere
 
-Check out my [coding portfolio!] (Unavailable right now 😢)
+Check out my [coding portfolio!] (Unavailable right now)
 
 ## 🎓 Who Am I?
 
-- 🌍 I strive in humanitarian projects and education advocacy!
-- 🥇 I live for high pressure hackathon-type situations where I can *suffer* for 48 hours.
-- 💫 Entrepreneurship, startups, and collaborations are my thing!
-- ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology.
-- 🏸 I play competitive badminton. 🤑
+- 🌍 I strive in humanitarian projects and education advocacy
+- 🥇 I live for high pressure hackathon-type situations where I can *suffer* for 48 hours
+- 💫 Entrepreneurship, startups, and collaborations are my thing
+- ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
+- 🏸 I play competitive badminton 🤑
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-khan10/)
