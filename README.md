@@ -18,6 +18,7 @@ Check out my [coding portfolio!] (Unavailable right now)
 - 💫 Entrepreneurship, startups, and collaborations are my thing
 - ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
 - 🏸 I play competitive badminton 🤑
+- 🎮 I also play competitive Smash Bros...🤔
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-khan10/)
