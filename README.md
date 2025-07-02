@@ -21,7 +21,7 @@ Check out my [coding portfolio!](https://rayyan-khan-portfolio.vercel.app/)
 - 🎮 I also play competitive Smash Bros...🤔
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-khan10/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
 
 
 # 💻 Tech Stack:
