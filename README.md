@@ -14,8 +14,6 @@ Check out my [coding portfolio!](https://rayyan-khan-portfolio.vercel.app/) (sti
 ## 🎓 Who Am I?
 
 - 🌍 I strive in humanitarian projects and education advocacy
-- 🥇 I live for high pressure hackathon-type situations where I can *suffer* for 48 hours
-- 💫 Entrepreneurship, startups, and collaborations are my thing
 - ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
 - 🏸 I play competitive badminton 🤑
 - 🎮 I also play competitive Smash Bros...🤔
