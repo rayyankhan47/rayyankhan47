@@ -44,4 +44,4 @@ Libraries/Frameworks:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌃 Thank You!
-*“Life stands before me like an eternal spring with new and brilliant clothes.” ― Carl Friedrich Gauss*
+*“If it takes less than 5 minutes, do it now.” ― Thomas Frank*
