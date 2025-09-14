@@ -7,6 +7,7 @@ I am a computer science student at McGill University, and I'm leveraging my skil
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
 - 💻 Building MERN/PERN applications with Next.Js
+- 👔 Currently interning at: Quantolio, a fintech startup 📈 (Fall 2025)
 - 🎨 I am currently working on: A startup to solve certain problems in the Québec collegial academic sphere
 
 Check out my [coding portfolio!](https://rayyan-khan-portfolio.vercel.app/)
