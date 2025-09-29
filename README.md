@@ -10,7 +10,7 @@ I am a computer science student at McGill University, and I'm leveraging my skil
 - 💻 Building MERN/PERN applications with Next.Js
 - 🎨 Currently working on: A startup to solve certain problems in the Québec collegial academic sphere
 
-Check out my [coding portfolio!](https://rayyan-khan-portfolio.vercel.app/)
+Check out my [coding portfolio!](https://khanrayyan.com/)
 
 ## 🎓 Who Am I?
 
