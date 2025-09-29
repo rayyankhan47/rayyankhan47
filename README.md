@@ -5,7 +5,7 @@ I am a computer science student at McGill University, and I'm leveraging my skil
 
 ## 🚀 What I'm Up To
 
-- 👔 Currently interning at: Quantolio, a fintech startup 📈 (Fall 2025)
+- 👔 Currently interning at: Thermolio AI (Fall 2025)
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
 - 💻 Building MERN/PERN applications with Next.Js
 - 🎨 Currently working on: A startup to solve certain problems in the Québec collegial academic sphere
