@@ -17,7 +17,7 @@ Check out my [coding portfolio!](https://khanrayyan.com/)
 - 🌍 I strive in humanitarian projects and education advocacy
 - ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
 - 🏸 I play competitive badminton 🤑
-- 🎮 I also play competitive Smash Bros...🤔
+- 🎮 I also play competitive Smash Bros...🤔 and I main Mario 🏃
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
