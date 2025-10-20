@@ -5,9 +5,8 @@ I am a computer science student at McGill University, and I'm leveraging my skil
 
 ## 🚀 What I'm Up To
 
-- 👔 Internships = { "Current": "Quantolio", "Previous": [ Quantolio ] }
+- 👔 Currently interning at: Quantolio 📈
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
-- 💻 Building MERN/PERN applications with Next.Js
 - 🎨 Currently working on: A cool educational startup idea with a friend
 
 Check out my [coding portfolio!](https://khanrayyan.com/)
@@ -39,10 +38,6 @@ Libraries/Frameworks:
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌃 Thank You!
 *“If it takes less than 5 minutes, do it now.” ― Thomas Frank, a productivity trick*
