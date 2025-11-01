@@ -6,7 +6,7 @@ I am a computer science student at McGill University, and I'm leveraging my skil
 
 ## 🚀 What I'm Up To
 
-- 👔 Currently interning at: Quantolio 📈
+- 👔 Currently interning at: Thermolio 🤖
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
 - 🎨 Currently working on: A cool educational startup idea with a friend
 
