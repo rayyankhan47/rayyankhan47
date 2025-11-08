@@ -10,7 +10,7 @@ I study Mathematics & Computer Science at McGill University, with an expected gr
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
 - 🎨 Currently working on: A cool educational startup idea with a friend
 
-Check out my [coding portfolio!](https://khanrayyan.com/)
+Check out my [personal website!](https://khanrayyan.com/)
 
 ## 🎓 Who Am I?
 
