@@ -1,5 +1,5 @@
 
-### Let's use multi-agentic AI to democratize winning hackathons. Only at https://azaura.dev
+### I want to change the hackathon space by using multi-agentic AI to democratize winning hackathons. Only at https://azaura.dev
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
