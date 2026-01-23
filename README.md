@@ -22,5 +22,4 @@ Libraries/Frameworks:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌃 Thank You!
 *“If it takes less than 5 minutes, do it now.” ― Thomas Frank, a productivity trick*
