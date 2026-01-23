@@ -1,5 +1,5 @@
 
-### Leveraging multi-agentic AI to democratize hackathon-winning. Only at [azaura.dev](https://azaura.dev).
+### Leveraging meta-agentic AI to democratize hackathon-winning. Only at [azaura.dev](https://azaura.dev).
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
