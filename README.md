@@ -1,5 +1,6 @@
 
-### I want to change the hackathon space by using multi-agentic AI to democratize winning hackathons. Only at https://azaura.dev
+## Remember when Cursor leveled the playing field for hackathon participants back in early 2025? I think it's about time we do that again.
+### We leverage multi-agentic AI to democratize winning hackathons. Only at [azaura.dev](https://azaura.dev).
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
