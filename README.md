@@ -3,6 +3,6 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
-### [Personal Website](https://khanrayyan.com)
+### Check out my personal website [here.](https://khanrayyan.com)
 
 *“If it takes less than 5 minutes, do it now.” ― Thomas Frank, a productivity trick*
