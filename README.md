@@ -1,23 +1,5 @@
 
-<h1 align="center">Hi 👋 I'm Rayyan Khan</h1>
-
-# 💫 About Me:
-I study Mathematics & Computer Science at McGill University, with an expected graduation date of 2028. I originally started off as a pure math student, until I found a passion for coding. Now, I'm looking for full-stack internship/ML research opportunities. I also really enjoy collaborative projects! Hit me up and let's work on something together.
-
-## 🚀 What I'm Up To
-
-- 👔 Currently interning at: Quantolio 🤖
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
-- 🎨 Currently working on: A cool educational startup idea with a friend
-
-Check out my [personal website!](https://khanrayyan.com/)
-
-## 🎓 Who Am I?
-
-- 🌍 I strive in projects revolving around education advocacy
-- ❣️ Math is where it all began for me; I am nowadays interested in Graph Theory and Topology
-- 🏸 I love competitive badminton 🤑
-- 🎮 I also play competitive Smash Bros...(and I main Mario 🏃)
+Let's use multi-agent AI to democratize winning hackathons. Only at https://azaura.dev
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan1/)
