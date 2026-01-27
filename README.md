@@ -4,7 +4,8 @@
 <img width="1470" height="766" alt="Screenshot 2026-01-26 at 9 56 02 AM" src="https://github.com/user-attachments/assets/856ee56f-5549-4dca-9982-bd811b7ff514" />
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyankhan47&show_icons=true)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rayyankhan47)
+
 
 
 
