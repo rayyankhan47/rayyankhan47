@@ -13,7 +13,5 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG89z3ZEYkn0E3WmEkSS_Xw)
 ### Check out my personal website here: https://khanrayyan.com
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/AhmedSalafi)
----
 
 *“If it takes less than 5 minutes, do it now.” ― Thomas Frank, a productivity trick*
